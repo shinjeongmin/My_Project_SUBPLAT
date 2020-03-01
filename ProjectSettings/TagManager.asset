@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Climbing Wall
+  - Slope
+  - KeyGen
+  - KeyHole
+  - Pushable
+  - Car
+  - Shield
+  - Usable
+  - Breakable
+  - car
+  - Spike
+  - Goal
+  - Collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Foreground
+  - Background
+  - Box
+  - Car
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera
+    uniqueID: 3004701823
+    locked: 0
+  - name: Background
+    uniqueID: 828817117
+    locked: 0
+  - name: Ground
+    uniqueID: 3827207219
+    locked: 0
+  - name: Objects
+    uniqueID: 2434019559
+    locked: 0
+  - name: Player
+    uniqueID: 832432371
+    locked: 0
+  - name: Foreground
+    uniqueID: 1064798269
+    locked: 0

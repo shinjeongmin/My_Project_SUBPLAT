@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 8ee180e0c4c1f3f49b3c4477abdf4d09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2958539865471124267
+    second: BASE_Character_Amber_0
+  - first:
+      213: -6131561788177539586
+    second: BASE_Character_Amber_1
+  - first:
+      213: -47232285029915267
+    second: BASE_Character_Amber_2
+  - first:
+      213: -7963709428140909975
+    second: BASE_Character_Amber_3
+  - first:
+      213: 6063475435891941524
+    second: BASE_Character_Amber_4
+  - first:
+      213: -198718955463423985
+    second: BASE_Character_Amber_5
+  - first:
+      213: 2471158332764985130
+    second: BASE_Character_Amber_6
+  - first:
+      213: -6503718286115079823
+    second: BASE_Character_Amber_7
+  - first:
+      213: -3441827054605440666
+    second: BASE_Character_Amber_8
+  - first:
+      213: -7553877624810140124
+    second: BASE_Character_Amber_9
+  - first:
+      213: 2824180815381256995
+    second: BASE_Character_Amber_10
+  - first:
+      213: -8169702879069431915
+    second: BASE_Character_Amber_11
+  - first:
+      213: -5307468268735438747
+    second: BASE_Character_Amber_12
+  - first:
+      213: 5019521619441206178
+    second: BASE_Character_Amber_13
+  - first:
+      213: 5744599028936457652
+    second: BASE_Character_Amber_14
+  - first:
+      213: -153338418688427016
+    second: BASE_Character_Amber_15
+  - first:
+      213: 8434553408158023935
+    second: BASE_Character_Amber_16
+  - first:
+      213: 6676257354293024599
+    second: BASE_Character_Amber_17
+  - first:
+      213: -5779492858870277519
+    second: BASE_Character_Amber_18
+  - first:
+      213: -7451120762258090774
+    second: BASE_Character_Amber_19
+  - first:
+      213: 7415770875457639723
+    second: BASE_Character_Amber_20
+  - first:
+      213: -8491489100096946437
+    second: BASE_Character_Amber_21
+  - first:
+      213: -6055959089353444880
+    second: BASE_Character_Amber_22
+  - first:
+      213: -6921912208314269823
+    second: BASE_Character_Amber_23
+  - first:
+      213: -3583272781834931109
+    second: BASE_Character_Amber_24
+  - first:
+      213: -9161799174158086170
+    second: BASE_Character_Amber_25
+  - first:
+      213: -8682687890412400599
+    second: BASE_Character_Amber_26
+  - first:
+      213: -2534059959784972941
+    second: BASE_Character_Amber_27
+  - first:
+      213: -1287528156298598753
+    second: BASE_Character_Amber_28
+  - first:
+      213: 3720035676682775763
+    second: BASE_Character_Amber_29
+  - first:
+      213: 2594955758923742623
+    second: BASE_Character_Amber_30
+  - first:
+      213: -826121886932003574
+    second: BASE_Character_Amber_31
+  - first:
+      213: 6460044609577423752
+    second: BASE_Character_Amber_32
+  - first:
+      213: 2859499750406958828
+    second: BASE_Character_Amber_33
+  - first:
+      213: -2506909483937612229
+    second: BASE_Character_Amber_34
+  - first:
+      213: 8531795464237569539
+    second: BASE_Character_Amber_35
+  - first:
+      213: 3659268544301284333
+    second: BASE_Character_Amber_36
+  - first:
+      213: -8755446776816602726
+    second: BASE_Character_Amber_37
+  - first:
+      213: 5906187141254241534
+    second: BASE_Character_Amber_38
+  - first:
+      213: 9142747377317904901
+    second: BASE_Character_Amber_39
+  - first:
+      213: -2887199269240120778
+    second: BASE_Character_Amber_40
+  - first:
+      213: -3200899271663559366
+    second: BASE_Character_Amber_41
+  - first:
+      213: -633086066049486784
+    second: BASE_Character_Amber_42
+  - first:
+      213: 1159351172190770100
+    second: BASE_Character_Amber_43
+  - first:
+      213: -5815459264315497120
+    second: BASE_Character_Amber_44
+  - first:
+      213: 1693025690832789344
+    second: BASE_Character_Amber_45
+  - first:
+      213: 5470812327292256045
+    second: BASE_Character_Amber_46
+  - first:
+      213: 7174544743894758846
+    second: BASE_Character_Amber_47
+  - first:
+      213: 470015691938927370
+    second: BASE_Character_Amber_48
+  - first:
+      213: -6187383508664201827
+    second: BASE_Character_Amber_49
+  - first:
+      213: -3998792104170163385
+    second: BASE_Character_Amber_50
+  - first:
+      213: 6438343482314061619
+    second: BASE_Character_Amber_51
+  - first:
+      213: 5731518594027820730
+    second: BASE_Character_Amber_52
+  - first:
+      213: 472971065739085148
+    second: BASE_Character_Amber_53
+  - first:
+      213: -8689243448594130989
+    second: BASE_Character_Amber_54
+  - first:
+      213: 1296006522522221983
+    second: BASE_Character_Amber_55
+  - first:
+      213: -754436714870011921
+    second: BASE_Character_Amber_56
+  - first:
+      213: 8608432806245174535
+    second: BASE_Character_Amber_57
+  - first:
+      213: -3111990653127556957
+    second: BASE_Character_Amber_58
+  - first:
+      213: -6403583140127100108
+    second: BASE_Character_Amber_59
+  - first:
+      213: -8639844377465843228
+    second: BASE_Character_Amber_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BASE_Character_Amber_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b230d372558de0920800000000000000
+      internalID: 2958539865471124267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 268
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd91514a0158eaa0800000000000000
+      internalID: -6131561788177539586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75acdcac72385ff0800000000000000
+      internalID: -47232285029915267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 268
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5b39f7783b7190800000000000000
+      internalID: -7963709428140909975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 268
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49065a488cac52450800000000000000
+      internalID: 6063475435891941524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 268
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084771b9220e3df0800000000000000
+      internalID: -198718955463423985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 236
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27143039615b4220800000000000000
+      internalID: 2471158332764985130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 236
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179f5ec4da62eb5a0800000000000000
+      internalID: -6503718286115079823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 236
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e9e7878c2c30d0800000000000000
+      internalID: -3441827054605440666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 236
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e8b68825c3b2790800000000000000
+      internalID: -7553877624810140124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 236
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd54a0d71813720800000000000000
+      internalID: 2824180815381256995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597949434826f9e80800000000000000
+      internalID: -8169702879069431915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 204
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ed51dab51856b0800000000000000
+      internalID: -5307468268735438747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3cf2d715ce8a540800000000000000
+      internalID: 5019521619441206178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 204
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdbfc0716ae8bf40800000000000000
+      internalID: 5744599028936457652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf7a7458b3fddf0800000000000000
+      internalID: -153338418688427016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 204
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c154f2ad8d0570800000000000000
+      internalID: 8434553408158023935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 172
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75799bff0b4d6ac50800000000000000
+      internalID: 6676257354293024599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 172
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a512daddd1bcfa0800000000000000
+      internalID: -5779492858870277519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4911bf42d489890800000000000000
+      internalID: -7451120762258090774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25175f125c1ae660800000000000000
+      internalID: 7415770875457639723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f13ac84b49e4fba0800000000000000
+      internalID: -6055959089353444880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASE_Character_Amber_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ffcf8358d60ff90800000000000000
+      internalID: -6921912208314269823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

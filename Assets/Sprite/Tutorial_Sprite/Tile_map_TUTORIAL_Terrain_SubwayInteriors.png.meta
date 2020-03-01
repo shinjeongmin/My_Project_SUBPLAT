@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 6a6b4c7487bef54418ccde2a878d440c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2093049808595026799
+    second: TUTORIAL_Terrain_SubwayInteriors_0
+  - first:
+      213: -6098802361815179687
+    second: TUTORIAL_Terrain_SubwayInteriors_1
+  - first:
+      213: 464002359800036867
+    second: TUTORIAL_Terrain_SubwayInteriors_2
+  - first:
+      213: 8832893703002604327
+    second: TUTORIAL_Terrain_SubwayInteriors_3
+  - first:
+      213: -5573143600219793617
+    second: TUTORIAL_Terrain_SubwayInteriors_4
+  - first:
+      213: 2576446554216193009
+    second: TUTORIAL_Terrain_SubwayInteriors_5
+  - first:
+      213: -8332889755687800385
+    second: TUTORIAL_Terrain_SubwayInteriors_6
+  - first:
+      213: -7945399378719337260
+    second: TUTORIAL_Terrain_SubwayInteriors_7
+  - first:
+      213: 6690070132789422751
+    second: TUTORIAL_Terrain_SubwayInteriors_8
+  - first:
+      213: -6530995648835933063
+    second: TUTORIAL_Terrain_SubwayInteriors_9
+  - first:
+      213: 2452566297196656699
+    second: TUTORIAL_Terrain_SubwayInteriors_10
+  - first:
+      213: -879483656601824482
+    second: TUTORIAL_Terrain_SubwayInteriors_11
+  - first:
+      213: -8493534100226070678
+    second: TUTORIAL_Terrain_SubwayInteriors_12
+  - first:
+      213: 613469506641964311
+    second: TUTORIAL_Terrain_SubwayInteriors_13
+  - first:
+      213: 6424683163978086496
+    second: TUTORIAL_Terrain_SubwayInteriors_14
+  - first:
+      213: -6414941955043374498
+    second: TUTORIAL_Terrain_SubwayInteriors_15
+  - first:
+      213: -3830684597683220519
+    second: TUTORIAL_Terrain_SubwayInteriors_16
+  - first:
+      213: -6481863366279230397
+    second: TUTORIAL_Terrain_SubwayInteriors_17
+  - first:
+      213: -7602933068038393449
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_22
+  - first:
+      213: -2030507905149735896
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_1
+  - first:
+      213: -2976896965137726162
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_0
+  - first:
+      213: 8384310642559764787
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_3
+  - first:
+      213: 8077490836519767837
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_4
+  - first:
+      213: -5242073775270269910
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_5
+  - first:
+      213: 3598510717417154587
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_6
+  - first:
+      213: -6265177931020120215
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_7
+  - first:
+      213: 2492299603630410784
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_8
+  - first:
+      213: -8006113644381957744
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_9
+  - first:
+      213: 3024749989339884561
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_10
+  - first:
+      213: 8484197774635532486
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_11
+  - first:
+      213: -5770567633771788053
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_12
+  - first:
+      213: 8931756049305955071
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_13
+  - first:
+      213: 8052392400425060373
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_14
+  - first:
+      213: -8665174724541874329
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_15
+  - first:
+      213: -4830817421755507692
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_16
+  - first:
+      213: -3583414543136997525
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_17
+  - first:
+      213: -1151022929528381377
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_18
+  - first:
+      213: 9033113544505440625
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_19
+  - first:
+      213: -2964280787328806995
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_20
+  - first:
+      213: 4598945621876718511
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_21
+  - first:
+      213: 4816730994157536319
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_22
+  - first:
+      213: 381529368323600097
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_23
+  - first:
+      213: 6128312951267439672
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_24
+  - first:
+      213: 3158500080213820646
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_25
+  - first:
+      213: 8990344162078418699
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_2
+  - first:
+      213: 3997271403726793323
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_26
+  - first:
+      213: 4052349092527074406
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_27
+  - first:
+      213: -4438774522075298849
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_28
+  - first:
+      213: -3289373129628966207
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_29
+  - first:
+      213: 8175192458164688497
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_30
+  - first:
+      213: 6595472885921479505
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_31
+  - first:
+      213: 8914448517804265581
+    second: Tile_map_TUTORIAL_Terrain_SubwayInteriors_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791308c18a4fc7690800000000000000
+      internalID: -7602933068038393449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2507048bffefa6d0800000000000000
+      internalID: -2976896965137726162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6def71df22d3e0800000000000000
+      internalID: -2030507905149735896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e03de16e14cc70800000000000000
+      internalID: 8990344162078418699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394d408b1e0b5470800000000000000
+      internalID: 8384310642559764787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fcb339e13091070800000000000000
+      internalID: 8077490836519767837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cef92dca96047b0800000000000000
+      internalID: -5242073775270269910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e5188e6a70f130800000000000000
+      internalID: 3598510717417154587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fcde6bddd9d09a0800000000000000
+      internalID: -6265177931020120215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ccc34e84d669220800000000000000
+      internalID: 2492299603630410784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09194330f0294e090800000000000000
+      internalID: -8006113644381957744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c68f8e6121af920800000000000000
+      internalID: 3024749989339884561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08f41ccecedb570800000000000000
+      internalID: 8484197774635532486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88aa49f43daefa0800000000000000
+      internalID: -5770567633771788053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae35bedc8f3fb70800000000000000
+      internalID: 8931756049305955071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518046b8938dfbf60800000000000000
+      internalID: 8052392400425060373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffcf28f7d1fb780800000000000000
+      internalID: -8665174724541874329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9e71562d75fcb0800000000000000
+      internalID: -4830817421755507692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb9517577254ec0800000000000000
+      internalID: -3583414543136997525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a1257ebeb600f0800000000000000
+      internalID: -1151022929528381377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793404c8e01c5d70800000000000000
+      internalID: 9033113544505440625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf40c05452ccd6d0800000000000000
+      internalID: -2964280787328806995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabbc454dacb2df30800000000000000
+      internalID: 4598945621876718511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeae4660f67b4500800000000000000
+      internalID: 381529368323600097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b8b4f8242c0550800000000000000
+      internalID: 6128312951267439672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40038a61f35db20800000000000000
+      internalID: 3158500080213820646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a66f9c929297730800000000000000
+      internalID: 3997271403726793323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce3f58706dc3830800000000000000
+      internalID: 4052349092527074406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c5adf61e4662c0800000000000000
+      internalID: -4438774522075298849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c220c2019cc952d0800000000000000
+      internalID: -3289373129628966207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176db570a3e147170800000000000000
+      internalID: 8175192458164688497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf11b35a3d78b50800000000000000
+      internalID: 6595472885921479505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_map_TUTORIAL_Terrain_SubwayInteriors_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601b3832bb76bb70800000000000000
+      internalID: 8914448517804265581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
