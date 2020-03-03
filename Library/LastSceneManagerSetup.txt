@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Tutorial_2_Push_Climb.unity
+- path: Assets/Scenes/Stage_1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
