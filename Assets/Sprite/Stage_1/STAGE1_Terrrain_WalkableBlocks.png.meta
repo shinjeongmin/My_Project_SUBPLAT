@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 8319f7f7366e0344bbe53959f040cae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8380314356688399257
+    second: STAGE1_Terrrain_WalkableBlocks_0
+  - first:
+      213: -2515351321000627113
+    second: STAGE1_Terrrain_WalkableBlocks_1
+  - first:
+      213: 1472020969236312716
+    second: STAGE1_Terrrain_WalkableBlocks_2
+  - first:
+      213: 2401648609706572493
+    second: STAGE1_Terrrain_WalkableBlocks_3
+  - first:
+      213: 7439519202871432384
+    second: STAGE1_Terrrain_WalkableBlocks_4
+  - first:
+      213: 2976950715806270314
+    second: STAGE1_Terrrain_WalkableBlocks_5
+  - first:
+      213: -5417734535749219658
+    second: STAGE1_Terrrain_WalkableBlocks_6
+  - first:
+      213: 5911807814475491490
+    second: STAGE1_Terrrain_WalkableBlocks_7
+  - first:
+      213: 3385615790284676443
+    second: STAGE1_Terrrain_WalkableBlocks_8
+  - first:
+      213: 1275244361472399519
+    second: STAGE1_Terrrain_WalkableBlocks_9
+  - first:
+      213: -2176929972702980568
+    second: STAGE1_Terrrain_WalkableBlocks_10
+  - first:
+      213: 3579190976666285579
+    second: STAGE1_Terrrain_WalkableBlocks_11
+  - first:
+      213: -5688985158164077349
+    second: STAGE1_Terrrain_WalkableBlocks_12
+  - first:
+      213: 5049323585315373028
+    second: STAGE1_Terrrain_WalkableBlocks_13
+  - first:
+      213: 3849171171366970300
+    second: STAGE1_Terrrain_WalkableBlocks_14
+  - first:
+      213: -5363063794850314455
+    second: STAGE1_Terrrain_WalkableBlocks_15
+  - first:
+      213: 642867419459414052
+    second: STAGE1_Terrrain_WalkableBlocks_16
+  - first:
+      213: 8394914538303320469
+    second: STAGE1_Terrrain_WalkableBlocks_17
+  - first:
+      213: -5414382292734070375
+    second: STAGE1_Terrrain_WalkableBlocks_18
+  - first:
+      213: 3177549017641627329
+    second: STAGE1_Terrrain_WalkableBlocks_19
+  - first:
+      213: 3498636177486281590
+    second: STAGE1_Terrrain_WalkableBlocks_20
+  - first:
+      213: 5584936643585101830
+    second: STAGE1_Terrrain_WalkableBlocks_21
+  - first:
+      213: -3650507089626981683
+    second: STAGE1_Terrrain_WalkableBlocks_22
+  - first:
+      213: -818040781583651056
+    second: STAGE1_Terrrain_WalkableBlocks_23
+  - first:
+      213: -7189735838245399968
+    second: STAGE1_Terrrain_WalkableBlocks_24
+  - first:
+      213: -4644534305428862001
+    second: STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: 8488050998063413626
+    second: STAGE1_Terrrain_WalkableBlocks_26
+  - first:
+      213: 3533268053693571557
+    second: STAGE1_Terrrain_WalkableBlocks_27
+  - first:
+      213: -489852889124681570
+    second: STAGE1_Terrrain_WalkableBlocks_28
+  - first:
+      213: 8365948388995334771
+    second: STAGE1_Terrrain_WalkableBlocks_29
+  - first:
+      213: 2841540778549686699
+    second: STAGE1_Terrrain_WalkableBlocks_30
+  - first:
+      213: -2916497257728487556
+    second: STAGE1_Terrrain_WalkableBlocks_31
+  - first:
+      213: 30919102451474570
+    second: STAGE1_Terrrain_WalkableBlocks_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645b7f4e7423bb80800000000000000
+      internalID: -8380314356688399257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b27aec4da71dd0800000000000000
+      internalID: -2515351321000627113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b14db54bad6410800000000000000
+      internalID: 1472020969236312716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 435
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcafed0afae545120800000000000000
+      internalID: 2401648609706572493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c459da7c4b7e3760800000000000000
+      internalID: 7439519202871432384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 434
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634a7947e0405920800000000000000
+      internalID: 2976950715806270314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 388
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4d45e42750d4b0800000000000000
+      internalID: -5417734535749219658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a03a92e5fa0250800000000000000
+      internalID: 5911807814475491490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1fdd9f9f1cfe20800000000000000
+      internalID: 3385615790284676443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d16f7df392b110800000000000000
+      internalID: 1275244361472399519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826532449bdf9c1e0800000000000000
+      internalID: -2176929972702980568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063a7bda37dba130800000000000000
+      internalID: 3579190976666285579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42923e32aac01b0800000000000000
+      internalID: -5688985158164077349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef79b26c0dc21640800000000000000
+      internalID: 5049323585315373028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a00d59c00b6530800000000000000
+      internalID: 3849171171366970300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 388
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274030b4e19295b0800000000000000
+      internalID: -5363063794850314455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 356
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ec8e038cebe800800000000000000
+      internalID: 642867419459414052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 356
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f45f5b4ab08470800000000000000
+      internalID: 8394914538303320469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 356
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bb6bcdff3cd4b0800000000000000
+      internalID: -5414382292734070375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 308
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceabe40ffbe81c20800000000000000
+      internalID: 3177549017641627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 324
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b766d1117ad8030800000000000000
+      internalID: 3498636177486281590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 324
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d3fd794ea18d40800000000000000
+      internalID: 5584936643585101830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1db8a42bc65dc0800000000000000
+      internalID: -3650507089626981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6ce94e3cb5a4f0800000000000000
+      internalID: -818040781583651056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062dc74195de83c90800000000000000
+      internalID: -7189735838245399968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb0cc138ac4b8fb0800000000000000
+      internalID: -4644534305428862001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7938fe396d9bc570800000000000000
+      internalID: 8488050998063413626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 260
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e124a42390b80130800000000000000
+      internalID: 3533268053693571557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9846878461b339f0800000000000000
+      internalID: -489852889124681570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 212
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372815f2cb1d91470800000000000000
+      internalID: 8365948388995334771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1bd30784e2f6720800000000000000
+      internalID: 2841540778549686699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f41b442358687d0800000000000000
+      internalID: -2916497257728487556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Terrrain_WalkableBlocks_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e46682c8dd6000800000000000000
+      internalID: 30919102451474570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

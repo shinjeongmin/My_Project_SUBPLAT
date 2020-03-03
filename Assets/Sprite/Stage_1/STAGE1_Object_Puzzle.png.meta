@@ -1,0 +1,1141 @@
+fileFormatVersion: 2
+guid: f07bfef5d5503594090dd54eed3eb71c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2266177734774873387
+    second: STAGE1_Object_Puzzle_0
+  - first:
+      213: 5802718022885597506
+    second: STAGE1_Object_Puzzle_1
+  - first:
+      213: -7213416088432887907
+    second: STAGE1_Object_Puzzle_2
+  - first:
+      213: -3093673433066815244
+    second: STAGE1_Object_Puzzle_3
+  - first:
+      213: -6580627099649289923
+    second: STAGE1_Object_Puzzle_4
+  - first:
+      213: -7260527359807244988
+    second: STAGE1_Object_Puzzle_5
+  - first:
+      213: 4082947492543181010
+    second: STAGE1_Object_Puzzle_6
+  - first:
+      213: -2548207749309833816
+    second: STAGE1_Object_Puzzle_7
+  - first:
+      213: 7984324997484697502
+    second: STAGE1_Object_Puzzle_8
+  - first:
+      213: -9159608248828046813
+    second: STAGE1_Object_Puzzle_9
+  - first:
+      213: 5666628576169366385
+    second: STAGE1_Object_Puzzle_10
+  - first:
+      213: 2791303099141542135
+    second: STAGE1_Object_Puzzle_11
+  - first:
+      213: 3324170338773396193
+    second: STAGE1_Object_Puzzle_12
+  - first:
+      213: -1130156569083234065
+    second: STAGE1_Object_Puzzle_13
+  - first:
+      213: 9212195683920253573
+    second: STAGE1_Object_Puzzle_14
+  - first:
+      213: 1896439476201677228
+    second: STAGE1_Object_Puzzle_15
+  - first:
+      213: -2579947196085266148
+    second: STAGE1_Object_Puzzle_16
+  - first:
+      213: 8120318148096265560
+    second: STAGE1_Object_Puzzle_17
+  - first:
+      213: -1392085094093578678
+    second: STAGE1_Object_Puzzle_18
+  - first:
+      213: -164741232201472187
+    second: STAGE1_Object_Puzzle_19
+  - first:
+      213: -964286041696029
+    second: STAGE1_Object_Puzzle_20
+  - first:
+      213: -2069910371247015707
+    second: STAGE1_Object_Puzzle_21
+  - first:
+      213: -7447917057421939380
+    second: STAGE1_Object_Puzzle_22
+  - first:
+      213: 6893303967301379470
+    second: STAGE1_Object_Puzzle_23
+  - first:
+      213: -6864096710755817107
+    second: STAGE1_Object_Puzzle_24
+  - first:
+      213: 105886132507789874
+    second: STAGE1_Object_Puzzle_25
+  - first:
+      213: 3990868058097295205
+    second: STAGE1_Object_Puzzle_26
+  - first:
+      213: 8250529682390676033
+    second: STAGE1_Object_Puzzle_27
+  - first:
+      213: -2555478501435536037
+    second: STAGE1_Object_Puzzle_28
+  - first:
+      213: 7303949611809067357
+    second: STAGE1_Object_Puzzle_29
+  - first:
+      213: -5782500897526739095
+    second: STAGE1_Object_Puzzle_30
+  - first:
+      213: -6791320313348427000
+    second: STAGE1_Object_Puzzle_31
+  - first:
+      213: -2862673560735630317
+    second: STAGE1_Object_Puzzle_32
+  - first:
+      213: 697841368989443645
+    second: STAGE1_Object_Puzzle_33
+  - first:
+      213: 1025066660815014080
+    second: STAGE1_Object_Puzzle_34
+  - first:
+      213: -3367469607748054069
+    second: STAGE1_Object_Puzzle_34
+  - first:
+      213: -1614665174773750151
+    second: STAGE1_Object_Puzzle_36
+  - first:
+      213: 1849155760247638059
+    second: STAGE1_Object_Puzzle_37
+  - first:
+      213: -3379342641866822316
+    second: STAGE1_Object_Puzzle_38
+  - first:
+      213: -6823908498789274227
+    second: STAGE1_Object_Puzzle_43
+  - first:
+      213: 6216704080024583878
+    second: STAGE1_Object_Puzzle_39
+  - first:
+      213: 8590232118073421091
+    second: STAGE1_Object_Puzzle_41
+  - first:
+      213: 2431925625950985194
+    second: STAGE1_Object_Puzzle_42
+  - first:
+      213: -3367469607748054069
+    second: STAGE1_Object_Puzzle_35
+  - first:
+      213: -8568107691181595398
+    second: STAGE1_Object_Puzzle_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 423
+        width: 105
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d228d06b5bec80e0800000000000000
+      internalID: -2266177734774873387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416ad53c45678050800000000000000
+      internalID: 5802718022885597506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bedf294cc4eb90800000000000000
+      internalID: -7213416088432887907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04df257601115d0800000000000000
+      internalID: -3093673433066815244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31581eb48aeca4a0800000000000000
+      internalID: -6580627099649289923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453fac85dc6d3b90800000000000000
+      internalID: -7260527359807244988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bb91bc1b89a830800000000000000
+      internalID: 4082947492543181010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5d709d82f2acd0800000000000000
+      internalID: -2548207749309833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d85e48450ece60800000000000000
+      internalID: 7984324997484697502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 376
+        width: 109
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322dddec3d882e080800000000000000
+      internalID: -9159608248828046813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 376
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17317acbaa8e3ae40800000000000000
+      internalID: 5666628576169366385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 376
+        width: 118
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f057c43163bcb620800000000000000
+      internalID: 2791303099141542135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 376
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea6a779f43d12e20800000000000000
+      internalID: 3324170338773396193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe838379690e050f0800000000000000
+      internalID: -1130156569083234065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582147d8a2b48df70800000000000000
+      internalID: 9212195683920253573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16705e7a1815a10800000000000000
+      internalID: 1896439476201677228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19921eb1bf223cd0800000000000000
+      internalID: -2579947196085266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d8f68155a21b070800000000000000
+      internalID: 8120318148096265560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e9f658bf15eace0800000000000000
+      internalID: -1392085094093578678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54765ced8b8b6bdf0800000000000000
+      internalID: -164741232201472187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d509acf29cfff0800000000000000
+      internalID: -964286041696029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8bce4fb733643e0800000000000000
+      internalID: -2069910371247015707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4deac3a5eea3a890800000000000000
+      internalID: -7447917057421939380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e852acb9f6fe9af50800000000000000
+      internalID: 6893303967301379470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e87bb864ddb0a0800000000000000
+      internalID: -6864096710755817107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a44c260ee287100800000000000000
+      internalID: 105886132507789874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9754ba59626730800000000000000
+      internalID: 3990868058097295205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14276bf6805cf7270800000000000000
+      internalID: 8250529682390676033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d89caa7dd198cd0800000000000000
+      internalID: -2555478501435536037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d515b355977dc5560800000000000000
+      internalID: 7303949611809067357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_30
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f8a89121e60cfa0800000000000000
+      internalID: -5782500897526739095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f8fe282260c1a0800000000000000
+      internalID: -6791320313348427000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 276
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3378409db548d0800000000000000
+      internalID: -2862673560735630317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 276
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36203c170b3fa900800000000000000
+      internalID: 697841368989443645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_43
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 258
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d65edff5b9c41a0800000000000000
+      internalID: -6823908498789274227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c889fc62b4c93e00800000000000000
+      internalID: 1025066660815014080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 276
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d04ebb385441d0800000000000000
+      internalID: -3367469607748054069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 244
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976aa62149e8799e0800000000000000
+      internalID: -1614665174773750151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 244
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288defdd5589a910800000000000000
+      internalID: 1849155760247638059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 244
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da23195c92a11d0800000000000000
+      internalID: -3379342641866822316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 244
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce369b5c6b264650800000000000000
+      internalID: 6216704080024583878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 244
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af424dd5377f71980800000000000000
+      internalID: -8568107691181595398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 244
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32deaef2992a63770800000000000000
+      internalID: 8590232118073421091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

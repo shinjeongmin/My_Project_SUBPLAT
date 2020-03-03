@@ -1,0 +1,1987 @@
+fileFormatVersion: 2
+guid: 80bb3558497f24b44a3ec0bf77c51b6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3664690147047033551
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_0
+  - first:
+      213: -2484867540708750319
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_1
+  - first:
+      213: -8586403481725171305
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_2
+  - first:
+      213: 4859102608141290944
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_3
+  - first:
+      213: -5514614965047809987
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_4
+  - first:
+      213: 3508325143676594526
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_5
+  - first:
+      213: 6731005901461752778
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_6
+  - first:
+      213: 7211132884099306014
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_7
+  - first:
+      213: 1630811808393685111
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_8
+  - first:
+      213: 3535705873757436087
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_9
+  - first:
+      213: -8182318997421151250
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_10
+  - first:
+      213: -4073820599437365990
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_11
+  - first:
+      213: -7161761795746131557
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_12
+  - first:
+      213: -7385574191752861263
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_13
+  - first:
+      213: -6425904896706683601
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_14
+  - first:
+      213: 2496573205519826234
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_15
+  - first:
+      213: 7636757381489729065
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_16
+  - first:
+      213: 8743543310606362813
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_17
+  - first:
+      213: -3427706018744263973
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_18
+  - first:
+      213: -1039903148544659243
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_19
+  - first:
+      213: -3099494271128280266
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_20
+  - first:
+      213: -867077821428402543
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_21
+  - first:
+      213: 6514789879032771106
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_222
+  - first:
+      213: -2912223694874412762
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: 8411654902809876358
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_242
+  - first:
+      213: 237533457013820098
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_252
+  - first:
+      213: -4720059760951165678
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: 2975425553447683885
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_27
+  - first:
+      213: -5738601945386731103
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_28
+  - first:
+      213: -2396769651597788089
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_29
+  - first:
+      213: -3171002119774481980
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_30
+  - first:
+      213: -4026578285172830613
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_31
+  - first:
+      213: 3334081398032031012
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_0
+  - first:
+      213: -5470180156562222628
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: 6633129605819428594
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: -308594828342367829
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_22
+  - first:
+      213: 237533457013820098
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+  - first:
+      213: 9133098470867040672
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_26
+  - first:
+      213: -6288441609110102755
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_32
+  - first:
+      213: -6375438586486663
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_33
+  - first:
+      213: 5385595238458243234
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_34
+  - first:
+      213: 8539728361936104573
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_35
+  - first:
+      213: -6932727585957337748
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_36
+  - first:
+      213: -5792223005517190694
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_37
+  - first:
+      213: -7248089712453451783
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_38
+  - first:
+      213: 5002312526238552806
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_39
+  - first:
+      213: -4990372493174189802
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_40
+  - first:
+      213: -8417657822925489036
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_41
+  - first:
+      213: -3291303099675313385
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_42
+  - first:
+      213: 5528392046256800513
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_43
+  - first:
+      213: 277956357114704669
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_44
+  - first:
+      213: -4728742025924501765
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_45
+  - first:
+      213: 874722289328742497
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_46
+  - first:
+      213: -7603937783311875086
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_47
+  - first:
+      213: -1549619218252197
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_48
+  - first:
+      213: -7188843529369744821
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_49
+  - first:
+      213: -1471883414167672093
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_50
+  - first:
+      213: -3828438465690935418
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_51
+  - first:
+      213: -1767728034609545769
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_52
+  - first:
+      213: -8504396633267007680
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_53
+  - first:
+      213: -3862568175853022484
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_54
+  - first:
+      213: 7650793033930441828
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_55
+  - first:
+      213: 235086243021810216
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_56
+  - first:
+      213: -5769632711776967465
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_57
+  - first:
+      213: 6944093834822545457
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_58
+  - first:
+      213: 4919859461356840275
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_59
+  - first:
+      213: 6669173345240785280
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_60
+  - first:
+      213: -4180064494023755792
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_61
+  - first:
+      213: 7204143751098229908
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_62
+  - first:
+      213: -1693205224441418792
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_63
+  - first:
+      213: -2466256851402720725
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_64
+  - first:
+      213: 8355369909549646355
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_65
+  - first:
+      213: 5251461370271750422
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_66
+  - first:
+      213: 4975131254312528571
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_67
+  - first:
+      213: 4258686507804290668
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_68
+  - first:
+      213: 441637011563934986
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_69
+  - first:
+      213: -2936750662415935295
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_70
+  - first:
+      213: -6875813178351571693
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_71
+  - first:
+      213: -4482778570134711700
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_72
+  - first:
+      213: 637280501773926141
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_73
+  - first:
+      213: 4238890147221903477
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_74
+  - first:
+      213: 6656993959301643571
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_75
+  - first:
+      213: 4012721906179184334
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_76
+  - first:
+      213: 6565392305453183439
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_1
+  - first:
+      213: 5461354896836250634
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_2
+  - first:
+      213: -5494239150145040285
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_3
+  - first:
+      213: -1246915306157194152
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_4
+  - first:
+      213: 575506721926443552
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_5
+  - first:
+      213: -7701032673085283872
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_6
+  - first:
+      213: -7061068629715236153
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_7
+  - first:
+      213: -5492404035636665305
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_8
+  - first:
+      213: -6884484748635481365
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_9
+  - first:
+      213: -8140336800298527655
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_10
+  - first:
+      213: 7346750005800801434
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_11
+  - first:
+      213: 5027081595458957694
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_12
+  - first:
+      213: -593395666300208492
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_13
+  - first:
+      213: 2947961233415213635
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_14
+  - first:
+      213: -351090942165454718
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_15
+  - first:
+      213: 8158093029365812865
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_16
+  - first:
+      213: -4599127994640421526
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_17
+  - first:
+      213: 797554260323567652
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_18
+  - first:
+      213: -6116611897792695168
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_19
+  - first:
+      213: 7590864603022376905
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_20
+  - first:
+      213: 5649103514459789148
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_21
+  - first:
+      213: 6514789879032771106
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_22
+  - first:
+      213: -3414966202276557776
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_23
+  - first:
+      213: 6633129605819428594
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_24
+  - first:
+      213: -1407275483286600690
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_27
+  - first:
+      213: 6166622054934788516
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_28
+  - first:
+      213: -8166946644623183716
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_29
+  - first:
+      213: 4246162996207954049
+    second: Tilemap_STAGE1_Terrrain_WalkableBlocks_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ddfe5ed59054e20800000000000000
+      internalID: 3334081398032031012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c082a132af38dd0800000000000000
+      internalID: -2484867540708750319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799089da687f6d880800000000000000
+      internalID: -8586403481725171305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8f65d3100f6340800000000000000
+      internalID: 4859102608141290944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a54f28e62873b0800000000000000
+      internalID: -5514614965047809987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e592a69512310b030800000000000000
+      internalID: 3508325143676594526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8fa97436596d50800000000000000
+      internalID: 6731005901461752778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1290e0e627131460800000000000000
+      internalID: 7211132884099306014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77861d603bec1a610800000000000000
+      internalID: 1630811808393685111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f29b52c9511130800000000000000
+      internalID: 3535705873757436087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb28cf3930927e80800000000000000
+      internalID: -8182318997421151250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dedd3bfb1e677c0800000000000000
+      internalID: -4073820599437365990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919696679f4c9c90800000000000000
+      internalID: -7161761795746131557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9274e276b218990800000000000000
+      internalID: -7385574191752861263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dda57da8992d6a0800000000000000
+      internalID: -6425904896706683601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d74ce5a1c95a220800000000000000
+      internalID: 2496573205519826234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e998f80663bf960800000000000000
+      internalID: 7636757381489729065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86fe2d05e475970800000000000000
+      internalID: 8743543310606362813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda974669875e60d0800000000000000
+      internalID: -3427706018744263973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07f2698958191f0800000000000000
+      internalID: -1039903148544659243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336a0ad1626cf4d0800000000000000
+      internalID: -3099494271128280266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f32db05587f3f0800000000000000
+      internalID: -867077821428402543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d7be31240614b0800000000000000
+      internalID: -5470180156562222628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f888aaf3b597d0800000000000000
+      internalID: -2912223694874412762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe6eff8b3c9d0c50800000000000000
+      internalID: 6633129605819428594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9612d73a6a7bbf0800000000000000
+      internalID: -308594828342367829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278ed0c6c5da4920800000000000000
+      internalID: 2975425553447683885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9bbd16fe36c50b0800000000000000
+      internalID: -5738601945386731103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb31453b6fcbed0800000000000000
+      internalID: -2396769651597788089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec8f32268be18c0800000000000000
+      internalID: -4026578285172830613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd4329ca7fab8a0800000000000000
+      internalID: -6288441609110102755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e3c7829959eff0800000000000000
+      internalID: -6375438586486663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -6, y: -5}
+        - {x: 8, y: -5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ca78323b5338670800000000000000
+      internalID: 8539728361936104573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -5}
+        - {x: 8, y: -5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652672edf00acf90800000000000000
+      internalID: -6932727585957337748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -5}
+        - {x: 5, y: -5}
+        - {x: 8, y: -2}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96d407dd3ed9fa0800000000000000
+      internalID: -5792223005517190694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e29fed3db8cb6540800000000000000
+      internalID: 5002312526238552806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d87758a2aebab0800000000000000
+      internalID: -4990372493174189802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cfcb70fc87e2b80800000000000000
+      internalID: -8417657822925489036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf5b7d441f252d0800000000000000
+      internalID: -3291303099675313385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034b30864bc8bc40800000000000000
+      internalID: 5528392046256800513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1332e885df7bd300800000000000000
+      internalID: 277956357114704669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1f4e6e22206eb0800000000000000
+      internalID: -4728742025924501765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606e84a943a32c00800000000000000
+      internalID: 874722289328742497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3468b9fd2697690800000000000000
+      internalID: -7603937783311875086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e75f821ae7afff0800000000000000
+      internalID: -1549619218252197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0d0ee5e81c3c90800000000000000
+      internalID: -7188843529369744821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea2fbb45d1d29be0800000000000000
+      internalID: -1471883414167672093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fdc08df77aedac0800000000000000
+      internalID: -3828438465690935418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3995e7b4c777e0800000000000000
+      internalID: -1767728034609545769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f871df1505af980800000000000000
+      internalID: -8504396633267007680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25d8575b6656ac0800000000000000
+      internalID: -3862568175853022484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464057d8ab31d2a60800000000000000
+      internalID: 7650793033930441828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a65e641b1334300800000000000000
+      internalID: 235086243021810216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46f021e952eefa0800000000000000
+      internalID: -5769632711776967465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f3972d806e5060800000000000000
+      internalID: 6944093834822545457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e4031d1ad64440800000000000000
+      internalID: 4919859461356840275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a49c92d9ad8c50800000000000000
+      internalID: 6669173345240785280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7bd775d7d6df5c0800000000000000
+      internalID: -4180064494023755792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946f0b82924af360800000000000000
+      internalID: 7204143751098229908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6551c1d68088e0800000000000000
+      internalID: -1693205224441418792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a744fd57816cdd0800000000000000
+      internalID: -2466256851402720725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c1b10aac34f370800000000000000
+      internalID: 8355369909549646355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619dbb6fa40f0e840800000000000000
+      internalID: 5251461370271750422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaed3434873b0540800000000000000
+      internalID: 4975131254312528571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6c6bb0d4e91b30800000000000000
+      internalID: 4258686507804290668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05fee9a582012600800000000000000
+      internalID: 441637011563934986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c81ec405d09e37d0800000000000000
+      internalID: -2936750662415935295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da76a08543490a0800000000000000
+      internalID: -6875813178351571693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62136824a8f9c1c0800000000000000
+      internalID: -4482778570134711700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe748a6d3318d800800000000000000
+      internalID: 637280501773926141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578901b512093da30800000000000000
+      internalID: 4238890147221903477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d78185cb4626c50800000000000000
+      internalID: 6656993959301643571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_STAGE1_Terrrain_WalkableBlocks_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61d38305d00b730800000000000000
+      internalID: 4012721906179184334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
