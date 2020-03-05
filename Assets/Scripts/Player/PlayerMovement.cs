@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     float doubleJumpVelocity; // 이단 점프할 때 받는 힘
     float gravity; // 플레이어에 작용하는 중력
 
+    [SerializeField] int maxJumpcount = 1; //최대 점프 횟수
     int jumpcount; // 점프 횟수
     bool facingRight = true; // 플레이어가 향하고 있는 방향
     bool crouch = false; // 플레이어가 앉아 있는가?
@@ -161,7 +162,7 @@ public class PlayerMovement : MonoBehaviour
         if (controller.collisions.above || controller.collisions.below) // raycast에서의 중력 축적 방지
             velocity.y = 0;
  
-        if ((controller.collisions.below || jumpcount < 2) && !pushing && !wallSliding) // 땅에 있을 때
+        if ((controller.collisions.below || jumpcount < maxJumpcount) && !pushing && !wallSliding) // 땅에 있을 때
         {
             if (jumpcount == 0)
                 animator.SetBool("IsJumping", false);
@@ -180,7 +181,7 @@ public class PlayerMovement : MonoBehaviour
         {
             slide = false;
             animator.SetBool("IsJumping", true);
-            jumpcount = 2;
+            jumpcount = maxJumpcount;
             if (wallDirX == inputXDir) // 점프하는 방향과 입력한 방향이 반대
             {
                 velocity.x = -wallDirX * wallJumpWeak.x;
@@ -197,7 +198,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // 점프 키를 땠을 때 (점프키를 누른 시간에 따라 점프 높이를 다르게 함)
-        if (Input.GetButtonUp("Jump") && !crouch && !slide && !pushing && jumpcount < 2)
+        if (Input.GetButtonUp("Jump") && !crouch && !slide && !pushing && jumpcount < maxJumpcount)
         {
             if (velocity.y > minJumpVelocity) // 점프키를 떼는 시점에서 점프할때 가해지는 속력의 크기를 최소화시킴.
             {
