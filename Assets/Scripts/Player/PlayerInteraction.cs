@@ -18,12 +18,12 @@ public class PlayerInteraction : MonoBehaviour
 
     [HideInInspector] public bool haveKey = false; // 키를 가지고 있는지 확인
     Controller2D controller; // 플레이어의 Controller2D
-    GameObject[] keygen_arr; // 모든 수정 GameObj가 담긴 array
-    GameObject[] keyhole_arr; // 모든 수정을 이용하는 GameObj가 담긴 array
-    GameObject[] usable_arr; // 모든 작동 가능한 GameObj가 담긴 array
+    /*[SerializeField] */ GameObject[] keygen_arr; // 모든 수정 GameObj가 담긴 array
+    /*[SerializeField] */ GameObject[] keyhole_arr; // 모든 수정을 이용하는 GameObj가 담긴 array
+    /*[SerializeField] */ GameObject[] usable_arr; // 모든 작동 가능한 GameObj가 담긴 array
 
     const int COLLECTABLES_COUNT = 5; // 수집품의 개수
-    public bool[] collectables = new bool[COLLECTABLES_COUNT]; // 수집품 수집 여부가 정리된 array
+    public bool[] collectables = new bool[COLLECTABLES_COUNT]; // 수집품 수집 여부가 정리된 array - 현재 사용되고 있지 않음
 
     // 로그용 수집품 수집 여부
     bool[] old_collectables = new bool[COLLECTABLES_COUNT];
@@ -45,7 +45,7 @@ public class PlayerInteraction : MonoBehaviour
          *    수정을 끼운 Obj => 수정이 필요 없는 Obj 순으로 작동함.
          */
 
-        for (int i = 0; i < COLLECTABLES_COUNT; i++)
+        for (int i = 0; i < COLLECTABLES_COUNT; i++) //뭐냐 이거
         {
             if (collectables[i] != old_collectables[i])
             {
@@ -60,7 +60,7 @@ public class PlayerInteraction : MonoBehaviour
         float closest_distance_keyhole = m_awarenessSize + 1; // 플레이어로부터 가장 가까운 keyhole와의 거리
         int closest_usable = -1; // 플레이어로부터 가장 가까운 obj의 index
         float closest_distance_use = m_awarenessSize + 1; // 플레이어로부터 가장 가까운 obj와의 거리
-
+       
         for (int i = 0; i < keygen_arr.Length; ++i)
         {
             Transform keygen_tr = keygen_arr[i].transform; // 현재 선택된 수정의 위치
@@ -88,7 +88,7 @@ public class PlayerInteraction : MonoBehaviour
             Transform keyhole_tr = keyhole_arr[i].transform; // 현재 선택된 수정을 사용하는 Obj의 위치
 
             // keyhole와 플레이어간의 거리가 상호작용 범위보다 작고, keyhole가 활성화된 상태가 아니라면
-            if (Vector3.Distance(transform.position, keyhole_tr.position) <= m_awarenessSize) // isActive라는 변수가 존재해야 함
+            if (Vector3.Distance(transform.position, keyhole_tr.position) <= m_awarenessSize)
             {
 
                 // 선택된 keyhole가 없을 때
@@ -131,13 +131,13 @@ public class PlayerInteraction : MonoBehaviour
             // 플레이어 근처에 keyhole가 있고, 'E' 키를 누를 때
             if (Input.GetButtonDown("Use") && closest_keyhole != -1 && closest_distance_keyhole <= closest_distance_use)
             {
-                if (!keyhole_arr[closest_keyhole].GetComponent<KeyHoleCheck>().isActive)
+                if (!keyhole_arr[closest_keyhole].GetComponent<KeyHoleCheck>().isActive) // isActive라는 변수가 존재해야 함, isActive == false 일 때
                 {
                     haveKey = false;
                     haveKeyRender.enabled = false;
                     keyhole_arr[closest_keyhole].GetComponent<KeyHoleCheck>().WhenActive(); // WhenActive라는 public method가 존재해야 함
                 }
-                else // 수정을 이미 끼운 물체
+                else // 수정을 이미 끼운 물체 (isActive = true)
                     keyhole_arr[closest_keyhole].GetComponent<KeyHoleCheck>().WhenActive(); // WhenActive라는 public method가 존재해야 함
             }
             // 수정 없이도 사용 가능한 물체
@@ -153,7 +153,7 @@ public class PlayerInteraction : MonoBehaviour
                 haveKeyRender.enabled = true;
                 keygen_arr[closest_key].SetActive(false);
             }
-            // 수정을 사용해서 켜져있고, 사용 가능한 물체일 때
+            // 수정을 사용해서 켜져있고(isActive = true), 사용 가능한 물체일 때
             else if (Input.GetButtonDown("Use") && closest_keyhole != -1 && closest_distance_keyhole <= closest_distance_use && closest_distance_keyhole <= closest_distance_keygen)
             {
                 if (keyhole_arr[closest_keyhole].GetComponent<KeyHoleCheck>().isActive)

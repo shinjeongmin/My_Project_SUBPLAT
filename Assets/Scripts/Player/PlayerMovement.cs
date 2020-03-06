@@ -55,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
         maxJumpVelocity = -gravity * timeToJumpApex; // v = at
         minJumpVelocity = Mathf.Sqrt(2 * Mathf.Abs(gravity) * minJumpHeight); // v^2 - v0^2= 2as
         doubleJumpVelocity = maxJumpVelocity / (float)1.5;
+
     }
 
     void Update()
