@@ -9,7 +9,7 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
     [SerializeField] int horizontalRayCount = 4;
     [SerializeField] int verticalRayCount = 4;
     float horizontalRaySpacing; // 수평 레이캐스트 간격
-    float verticalRaySpacing; // 수직 레이캐스트
+    float verticalRaySpacing; // 수직 레이캐스트 간격
     bool crouchingOld = false; // 웅크리기 상태였는가
 
     [SerializeField] float maxClimbAngle = 70f; // 최대로 오를 수 있는 경사로의 각도
@@ -35,7 +35,7 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
     public void Move(Vector3 velocity, bool crouch) // 플레이어가 움직이는 중에 충돌을 감지한다.
     {
         if (Physics2D.OverlapCircle(CeilingCheck.position, CeilingRadius, WhatIsGround) && collisions.below)
-            // OverlapCircle의 범위안에 layermask가 감지되면서, 바닥과 충돌한 상태일 때. 즉 천장과 맞닿아 있을때
+        // OverlapCircle의 범위안에 layermask가 감지되면서, 바닥과 충돌한 상태일 때. 즉 천장과 맞닿아 있을때
         {
             crouch = true;
             collisions.crouchLock = true; // 웅크리기 상태를 풀 수 없도록.
@@ -66,15 +66,15 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
         transform.Translate(velocity);
     }
 
-    void HorizontalCollisions(ref Vector3 velocity)
+    void HorizontalCollisions(ref Vector3 velocity) //수평방향 충돌감지
     {
-        float directionX = collisions.faceDir;
-        float rayLength = Mathf.Abs(velocity.x) + skinWidth;
+        float directionX = collisions.faceDir; // x방향 변수
+        float rayLength = Mathf.Abs(velocity.x) + skinWidth; // x방향 속력에 표면두께 더한만큼 raycast의 길이를 정함.
 
-        if (Mathf.Abs(velocity.x) < skinWidth)
+        if (Mathf.Abs(velocity.x) < skinWidth) // x방향 속력이  표면두께보다 수치가 작으면 raylength가 너무 짧아지므로 재수정.
             rayLength = 2 * skinWidth;
 
-        for (int i = 0; i < horizontalRayCount; i++)
+        for (int i = 0; i < horizontalRayCount; i++) // raycast들의 갯수만큼 반복
         {
             Vector2 rayOrigin = (directionX == -1) ? raycastOrigins.bottomLeft : raycastOrigins.bottomRight;
             rayOrigin += Vector2.up * (horizontalRaySpacing * i);
@@ -84,7 +84,7 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
 
             if (hit)
             {
-                float slopeAngle = Vector2.Angle(hit.normal, Vector2.up);
+                float slopeAngle = Vector2.Angle(hit.normal, Vector2.up); //경사각도 계산. 수직항력과 수직방향 벡터의 각도로 알 수 있음.
                 collisions.horizontalTag = hit.collider.tag;
 
                 if (i == 0 && slopeAngle <= maxClimbAngle)
@@ -101,18 +101,18 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
                         distanceToSlopeStart = hit.distance - skinWidth;
                         velocity.x -= distanceToSlopeStart * directionX;
                     }
-                    ClimbSlope(ref velocity, slopeAngle);
+                    ClimbSlope(ref velocity, slopeAngle); //경사를 올라갈때 속력 조정함수
                     velocity.x += distanceToSlopeStart * directionX;
                 }
 
-                if (!collisions.climbingSlope || slopeAngle > maxClimbAngle)
+                if (!collisions.climbingSlope || slopeAngle > maxClimbAngle) //경사에 닿아있지 않거나 오를수 있는 각도를 초과한 경우
                 {
-                    velocity.x = Mathf.Min(Mathf.Abs(velocity.x), (hit.distance - skinWidth)) * directionX;
-                    rayLength = Mathf.Min(Mathf.Abs(velocity.x) + skinWidth, hit.distance);
+                    velocity.x = Mathf.Min(Mathf.Abs(velocity.x), (hit.distance - skinWidth)) * directionX; // x방향 속력과 raycast의 길이에서 표면두께를 뺀 값중 작은값에 방향을 곱하여 속력으로 지정.
+                    rayLength = Mathf.Min(Mathf.Abs(velocity.x) + skinWidth, hit.distance); // 둘 중 작은값으로 raycast의 길이를 지정.
 
-                    if (collisions.climbingSlope)
+                    if (collisions.climbingSlope) //각도를 초과했지만 경사에 닿아있는 경우에 y방향 속력
                     {
-                        velocity.y = Mathf.Tan(collisions.slopeAngle * Mathf.Deg2Rad) * Mathf.Abs(velocity.x);
+                        velocity.y = Mathf.Tan(collisions.slopeAngle * Mathf.Deg2Rad) * Mathf.Abs(velocity.x); // 탄젠트 각도와 x방향 속도에 따라서 y방향 속도를 지정.
                     }
 
                     collisions.left = directionX == -1;
@@ -122,48 +122,48 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
         }
     }
 
-    void VerticalCollisions(ref Vector3 velocity)
+    void VerticalCollisions(ref Vector3 velocity) //수직방향 충돌감지
     {
-        float directionY = Mathf.Sign(velocity.y);
-        float rayLength = Mathf.Abs(velocity.y) + skinWidth;
+        float directionY = Mathf.Sign(velocity.y); //방향변수
+        float rayLength = Mathf.Abs(velocity.y) + skinWidth; // raycast 길이
 
-        for (int i = 0; i < verticalRayCount; i++)
+        for (int i = 0; i < verticalRayCount; i++) // raycast 갯수만큼 반복.
         {
-            Vector2 rayOrigin = (directionY == -1) ? raycastOrigins.bottomLeft : raycastOrigins.topLeft;
-            rayOrigin += Vector2.right * (verticalRaySpacing * i + velocity.x);
-            RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.up * directionY, rayLength, WhatIsGround);
+            Vector2 rayOrigin = (directionY == -1) ? raycastOrigins.bottomLeft : raycastOrigins.topLeft; // raycast의 시작위치 지정. 방향에 따라 좌측하단 또는 좌측상단을 선택.
+            rayOrigin += Vector2.right * (verticalRaySpacing * i + velocity.x); // 시작 위치를 수직 raycast의 간격만큼 떨어져서 배치
+            RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.up * directionY, rayLength, WhatIsGround); // raycast 생성
 
-            Debug.DrawRay(rayOrigin, Vector2.up * directionY * rayLength, Color.red);
+            Debug.DrawRay(rayOrigin, Vector2.up * directionY * rayLength, Color.red); // 빨간색으로 수직 raycast를 표시
 
-            if (hit)
+            if (hit) // raycast에 감지되면
             {
-                velocity.y = Mathf.Min(Mathf.Abs(velocity.y), (hit.distance - skinWidth)) * directionY;
-                rayLength = Mathf.Min(Mathf.Abs(velocity.y) + skinWidth, hit.distance);
-                collisions.verticalTag = hit.collider.tag;
+                velocity.y = Mathf.Min(Mathf.Abs(velocity.y), (hit.distance - skinWidth)) * directionY; // y 최소속력
+                rayLength = Mathf.Min(Mathf.Abs(velocity.y) + skinWidth, hit.distance); // raycast 최소길이
+                collisions.verticalTag = hit.collider.tag; // raycast가 감지한 태그를 수직으로 닿는 태그로 설정 
 
-                if (collisions.climbingSlope)
+                if (collisions.climbingSlope) // 경사를 오르는 중이라면
                 {
-                    velocity.x = velocity.y / Mathf.Tan(collisions.slopeAngle * Mathf.Deg2Rad) * Mathf.Sign(velocity.x);
+                    velocity.x = velocity.y / Mathf.Tan(collisions.slopeAngle * Mathf.Deg2Rad) * Mathf.Sign(velocity.x); // x속력을 지정.
                 }
 
-                collisions.below = directionY == -1;
-                collisions.above = directionY == 1;
+                collisions.below = directionY == -1; // 아래로 움직이는지 여부
+                collisions.above = directionY == 1; // 위로 움직이는지 여부
             }
         }
 
-        if (collisions.climbingSlope)
+        if (collisions.climbingSlope) // 경사를 오르는 중이라면
         {
-            float directionX = collisions.faceDir;
-            rayLength = Mathf.Abs(velocity.x + skinWidth);
+            float directionX = collisions.faceDir; // 충돌한 방향을 x방향변수에 담음
+            rayLength = Mathf.Abs(velocity.x + skinWidth); // raycast 길이설정
             Vector2 rayOrigin = ((directionX == -1) ? raycastOrigins.bottomLeft : raycastOrigins.bottomRight)
-                + Vector2.up * velocity.y;
+                + Vector2.up * velocity.y; // raycast의 시작점 설정. 
 
-            RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.right * directionX, rayLength, WhatIsGround);
+            RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.right * directionX, rayLength, WhatIsGround); // raycast 생성
 
-            if (hit)
+            if (hit) // raycast가 인식하면
             {
-                float slopeAngle = Vector2.Angle(hit.normal, Vector2.up);
-                if (slopeAngle != collisions.slopeAngle)
+                float slopeAngle = Vector2.Angle(hit.normal, Vector2.up); // 경사각도 계산
+                if (slopeAngle != collisions.slopeAngle) // 경사각이 현재 미끄러지는 각도와 다르면
                 {
                     velocity.x = (hit.distance - skinWidth) * directionX;
                     collisions.slopeAngle = slopeAngle;
@@ -172,14 +172,14 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
         }
     }
 
-    void ClimbSlope(ref Vector3 velocity, float slopeAngle)
+    void ClimbSlope(ref Vector3 velocity, float slopeAngle) // 경사를 올라갈때 속력을 조정하는 함수
     {
-        float moveDistance = Mathf.Abs(velocity.x);
-        float climbVelocityY = Mathf.Sin(slopeAngle * Mathf.Deg2Rad) * moveDistance;
+        float moveDistance = Mathf.Abs(velocity.x); // 움직이는 속도
+        float climbVelocityY = Mathf.Sin(slopeAngle * Mathf.Deg2Rad) * moveDistance; // y방향 이동속도
 
-        if (velocity.y <= climbVelocityY)
+        if (velocity.y <= climbVelocityY) // y방향 속력이 y방향으로 올라가는 속도보다 작을 때
         {
-            velocity.x = Mathf.Cos(slopeAngle * Mathf.Deg2Rad) * moveDistance * Mathf.Sign(velocity.x);
+            velocity.x = Mathf.Cos(slopeAngle * Mathf.Deg2Rad) * moveDistance * Mathf.Sign(velocity.x); // x방향속력과 y방향 속력을 재정의 (최소 속력이 되는듯)
             velocity.y = climbVelocityY;
 
             collisions.below = true;
@@ -188,10 +188,10 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
         }
     }
 
-    void DescendScope(ref Vector3 velocity) // 내려가는 범위 설정함수
+    void DescendScope(ref Vector3 velocity) // 경사를 내려갈때 속력을 조정하는 함수
     {
         float directionX = collisions.faceDir;
-        Vector2 rayOrigin = (directionX == 1) ? raycastOrigins.bottomLeft : raycastOrigins.bottomRight; 
+        Vector2 rayOrigin = (directionX == 1) ? raycastOrigins.bottomLeft : raycastOrigins.bottomRight;
         // 오른쪽을 보고 있다면 좌측하단을, 왼쪽을 보고 있다면 우측하단을 시작점으로 설정
         RaycastHit2D hit = Physics2D.Raycast(rayOrigin, -Vector2.up, Mathf.Infinity, WhatIsGround); // 시작점에서 아래방향으로 raycast발사
 
@@ -203,14 +203,14 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
                 if (Mathf.Sign(hit.normal.x) == directionX) // raycast의 부호가 X축 방향과 같으면 (?)
                 {
                     if (hit.distance - skinWidth <= Mathf.Tan(slopeAngle * Mathf.Deg2Rad) * Mathf.Abs(velocity.x))
-                        // raycast의 거리에서 표면두께를 뺀 값()이 속력의 절댓값 * 경사각의 탄젠트값(대략 삼각형의 높이) 보다 작거나 같으면 (?)
+                    // raycast의 거리에서 표면두께를 뺀 값()이 속력의 절댓값 * 경사각의 탄젠트값(대략 삼각형의 높이) 보다 작거나 같으면 (?)
                     {
                         float moveDistance = Mathf.Abs(velocity.x); // 이동거리 변수에 x축속력 절댓값 대입. (?)
                         float descendVelocityY = Mathf.Sin(slopeAngle * Mathf.Deg2Rad) * moveDistance; // 하향속력. 계산 (?)
                         velocity.x = Mathf.Cos(slopeAngle * Mathf.Deg2Rad) * moveDistance * Mathf.Sign(velocity.x); // 계산시 머야(?) 레퍼런스이므로 대입시 전달됨.
                         velocity.y -= descendVelocityY;
 
-                        collisions.slopeAngle = slopeAngle;
+                        collisions.slopeAngle = slopeAngle; // 경사각도를 전달
                         collisions.descendingSlope = true;
                         collisions.below = true;
                     }
@@ -231,7 +231,7 @@ public class Controller2D : MonoBehaviour // 플레이어는 별도의 Raycast�
         {
             collisions.slopeDir = (leftHit.distance < rightHit.distance) ? 1 : -1; // 경사방향 설정. 레이캐스트 길이차이를 이용해 우측하단향 경사를 1 좌측하단향 경사를 -1로 지정
             collisions.slopeAngleCenter = Vector2.Angle(centerHit.normal, Vector2.up); // 경사각도 설정. 센터raycast에서의 벡터각도와 수직 벡터와의 사이각으로 각도를 계산
-            collisions.onSlope = (collisions.slopeAngleCenter > minSlopeAngle && centerHit.collider.tag == "Slope") ? true : false; 
+            collisions.onSlope = (collisions.slopeAngleCenter > minSlopeAngle && centerHit.collider.tag == "Slope") ? true : false;
             // 경사 오브젝트 위에 위치하는지 여부 설정. 경사인지 최소각도보다 경사각이 크고, Slope 태그와 맞닿아 있을 때만 true값을 설정.
         }
     }
