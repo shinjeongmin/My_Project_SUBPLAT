@@ -266,7 +266,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3696234550717629732}
-  m_BodyType: 2
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -351,7 +351,9 @@ MonoBehaviour:
   backwheel: {fileID: 3696234550717629729}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4352
+  useCar: 0
+  carDirection: 0
 --- !u!1 &3696234551051887247
 GameObject:
   m_ObjectHideFlags: 0
