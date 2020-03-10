@@ -34,6 +34,7 @@ public class PlayerMovement : MonoBehaviour
     bool slide = false; // 플레이어가 슬라이딩하는 중인가?
     bool wallJumping = false; // 플레이어가 벽점프 가능한 상태인가?
     public bool pushing = false; // 플레이어가 뭔가를 밀고 있는 상태인가?
+    bool arriveGoal = false; // 플레이어가 골에 도착한 상태인가?
     float moveSpeed; // 플레이어의 이동 속도
     public float walkingSpeed = 3f; // 플레이어가 걷는 속도
     public float runningSpeed = 8f; // 플레이어가 달리는 속도
@@ -300,6 +301,15 @@ public class PlayerMovement : MonoBehaviour
         }
 
         controller.Move(velocity * Time.deltaTime, crouch); // 이동중 충돌 확인
+
+        if(arriveGoal == true)
+        {
+            if (Input.GetButtonDown("Use"))
+            {
+                gm.NextStage();
+                arriveGoal = false;
+            }
+        }
     }
 
     // 공중에서 좌우 이동 속도 제한
@@ -332,7 +342,8 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (collide.tag == "Goal")
         {
-            gm.NextStage();
+            arriveGoal = true;
+            //gm.NextStage();
         }
     }
 }

@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     public GameObject player;
     PlayerMovement pm;   // player의 함수를 쓰기위한 변수
 
+
     void Start()
     {
         pm = player.GetComponent<PlayerMovement>();
@@ -40,7 +41,7 @@ public class GameManager : MonoBehaviour
     // 임시, 수정할 것!
     public void NextStage()
     {
-        SceneManager.LoadScene("SampleScene2");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void GameOver() // 게임 오버, 임시로 넣은 것이므로 나중에 수정할 것

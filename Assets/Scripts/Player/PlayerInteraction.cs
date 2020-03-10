@@ -166,5 +166,6 @@ public class PlayerInteraction : MonoBehaviour
             else if (Input.GetButtonDown("Use") && closest_usable != -1 && closest_distance_keygen > closest_distance_use && closest_distance_keyhole > closest_distance_use)
                 usable_arr[closest_usable].GetComponent<KeyHoleCheck>().WhenActive();
         }
+
     }
 }
