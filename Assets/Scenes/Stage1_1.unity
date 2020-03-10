@@ -10662,7 +10662,7 @@ GameObject:
   - component: {fileID: 707508282}
   m_Layer: 8
   m_Name: STAGE1_Terrrain_WalkableBlocks_16 (2)
-  m_TagString: Climbing Wall
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

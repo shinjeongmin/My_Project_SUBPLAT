@@ -26,12 +26,12 @@ public class ShieldLever : KeyHoleCheck
             isActive = true;
             shield.SetActive(!shield.activeSelf);
             this.tag = "Usable";
-            sp.sprite.name = "crank-down";
+            sp.sprite.name = "crank-down"; // 수정요망
         }
         else
         {
             shield.SetActive(!shield.activeSelf);
-            sp.sprite.name = "crank-up";
+            sp.sprite.name = "crank-up"; // 수정요망
         }
     }
 }
